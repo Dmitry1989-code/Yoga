@@ -1,0 +1,79 @@
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/fonts/Poppins/Poppins-Medium.ttf') format(truetab);
+  font-weight: 500;
+  font-size: 4em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/fonts/Poppins/Poppins-Regular.ttf') format(truetab);
+  font-weight: 400;
+  font-size: 2.5em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/fonts/Poppins/Poppins-SemiBold.ttf') format(truetab);
+  font-weight: 600;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/fonts/Poppins/Poppins-Light.ttf') format(truetab);
+  font-weight: 300;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/fonts/Poppins/Poppins-Bold.ttf') format(truetab);
+  font-weight: 700;
+  font-size: 1.2em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face{
+  font-family: Milish;
+  src: url('./assets/fonts/Mulish-Bold/Mulish-ExtraBold.ttf') format(truetab);
+  font-weight: 700;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url('./assets/fonts/Mulish-Regular/Mulish-Regular.ttf') format(truetab);
+  font-weight: 400;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Ramabhadra;
+  src: url('./assets/fonts/Ramabhadra-Regular/Ramabhadra-Regular.ttf') format(truetab);
+  font-weight: 400;
+  font-size: 3em;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+}
