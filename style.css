@@ -77,3 +77,206 @@
   font-variant: normal;
   font-stretch: normal;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+header {
+  min-height: 115px;
+  border: 1px solid red;
+}
+
+.navigation___link {
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.form-block__subtitle {
+  font-weight: 700;
+  font-size: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+.section-plan {
+  min-height: 1358px;
+  border: 2px solid red;
+  padding-top: 74px;
+  
+}
+
+.section-plan__heading {
+  min-height: 452px;
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.section-plan__plans {
+  font-weight: 700;
+  font-size: 120px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #48b84a;
+}
+
+.section-plan__block {
+  width: 242px; 
+  height: 224px;
+  border-radius: 50%;
+  background-color: #48b84a;
+}
+
+.section-plan__paragraph-plus {
+  padding: 60px 22px;
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #080c14;
+}
+
+.section-plan__subtitle {
+  padding: 22px 11px 22px 10px;
+  display: inline-block;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background-color: #48b84a;
+  font-weight: 600;
+  font-size: 19px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.section-block__relax {
+  min-height: 129px;
+}
+
+.section-block__paragraph {
+  padding-top: 182px;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1.735;
+  color: #fff;
+}
+
+.section-block__text {
+  min-height: 217px;
+}
+
+.section-plan__paragraph {
+  
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.735;
+  color: #fff;
+}
+
+.section-plan_subtitle {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.735;
+  color: #48b84a;
+}
+
+.section-plan_content {
+  min-height: 666px;
+}
+
+.section-plan_video {
+  
+}
+
+.section-block_paragraph {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.25;
+  color: #fff;
+  }
+
+  .teacher-section {
+    min-height: 1580px;
+    border: 2px solid red;
+    padding-top: 65px 0px 70px 0px;
+  } 
+
+  .teacher__heading{
+    min-height: 128px;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 1.25;
+    text-transform: uppercase;
+    color: #fff;
+  }
+
+  .teacher__heding {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.25;
+    color:#fff
+  }
+
+.teacher__skill {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #fff;
+}
+
+.description {
+  min-height: 1980px;
+  border: 2px solid red;
+  padding-top: 185px;
+}
+
+.description-heading {
+  font-weight: 400;
+  font-size: 100px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #fff;
+  padding-bottom: 25px;
+  padding-top: 185px;
+}
+
+.description-block {
+  border: 2px solid green;
+}
+
+.description-block__paragraf {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 1.735;
+  text-align: justify;
+  color: #fff;
+}
+.description-btn {
+  background-color: #000;
+  border: 1px solid #48b84a;
+  width: 167px;
+  height: 55px;
+}
+.description-btn__subtitle {
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 1.735;
+  color: #fff;
+}
